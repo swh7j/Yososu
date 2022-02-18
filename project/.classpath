@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/ezr210310/OneDrive/바탕 화면/라이브러리 jsoup/jsoup-1.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ezr210310/OneDrive/바탕 화면/라이브러리 json/json-simple-1.1.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/ezr210310/git/web_ezen/java_library/3. mysql/mysql-connector-java-8.0.27/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ezr210310/OneDrive/바탕 화면/라이브러리 cos/lib/cos.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
