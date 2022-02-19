@@ -11,10 +11,6 @@
 [7. DB 구조도](https://github.com/yongbeomj/ezen-pc-zone#7-db-%EA%B5%AC%EC%A1%B0%EB%8F%84)  
 
 
-## 0. 실행 화면  
-※ 이미지 클릭 시 프로그램 실행 녹화본 재생 (Youtube)  
-  
-[![캡처](https://user-images.githubusercontent.com/87436495/143043843-5598ff63-e85a-46cb-a0b1-c45930ce6e6f.PNG)](https://www.youtube.com/watch?v=xOvRwqN2yLM)
 
 ## 1. 개요
 ### 1.1. 목적
